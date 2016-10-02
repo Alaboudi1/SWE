@@ -1,1 +1,6 @@
+<<<<<<< HEAD:HTML/1/lab practice.txt
 https://jsfiddle.net/AbdulazizAlaboudi/nnjpa9b2/
+=======
+https://jsfiddle.net/AbdulazizAlaboudi/nnjpa9b2/
+http://jsbin.com/resuyipova/edit?html,output
+>>>>>>> de6c8cfeea68e209f19e2749c55308eeb8956dad:HTML/26-9/lab practice.txt
