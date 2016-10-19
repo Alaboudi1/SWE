@@ -7,3 +7,5 @@ This course touches various web development topics and technologies including bu
  * **PHP**
  
 Every week there will be a tutorial and lab exercise. So, please make sure that you regularly visit this repo to check out any new contents.
+
+<a href="https://fac.ksu.edu.sa/aalabodi"> Instructor Home page </a>
