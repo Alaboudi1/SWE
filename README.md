@@ -10,3 +10,5 @@ Every week there will be a tutorial and lab exercise. So, please make sure that 
 
 <a href="https://fac.ksu.edu.sa/aalabodi"> Instructor Home Page. </a>
 <br> Email: aalabodi at ksu . edu .sa    without the spaces.
+
+<a href="https://goo.gl/forms/0RDcdoZ6nOmukunj2"> Survey </a> 
