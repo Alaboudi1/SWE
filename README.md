@@ -12,3 +12,7 @@ Every week there will be a tutorial and lab exercise. So, please make sure that 
 <br> Email: aalabodi at ksu . edu .sa    without the spaces.
 
 <a href="https://goo.gl/forms/0RDcdoZ6nOmukunj2"> Survey </a> 
+
+<a href="https://www.dropbox.com/request/tVsuHyUtSxhkRYvoqpI2"> Lab Quiz Monday </a>
+
+<a href="https://www.dropbox.com/request/7uz8sFLDXop5KUazU7Aa"> Lab Quiz Wendesday </a>
