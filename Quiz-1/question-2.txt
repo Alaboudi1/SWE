@@ -1,0 +1,7 @@
+This is my solution:
+
+http://jsbin.com/tejokoq/edit?html,output
+
+This is one of the students' solution:
+
+http://jsbin.com/kakonu/edit?html,output
