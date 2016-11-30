@@ -4,7 +4,8 @@ This course touches various web development topics and technologies including bu
  * **HTML** 
  * **CSS**.
  * **javascript** 
- * **PHP**
+ * **PHP** 
+ <a href=" https://codeanywhere.com"> codeanywhere </a> 
  
 Every week there will be a tutorial and lab exercise. So, please make sure that you regularly visit this repo to check out any new contents.
 
@@ -15,4 +16,4 @@ Every week there will be a tutorial and lab exercise. So, please make sure that 
 
 <a href="https://www.dropbox.com/request/tVsuHyUtSxhkRYvoqpI2"> Lab Quiz Monday </a>
 
-<a href="https://www.dropbox.com/request/7uz8sFLDXop5KUazU7Aa"> Lab Quiz Wendesday </a>
+<a href="https://www.dropbox.com/request/7uz8sFLDXop5KUazU7Aa"> Lab Quiz Wendesday! </a>
